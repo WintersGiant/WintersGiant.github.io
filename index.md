@@ -25,21 +25,21 @@
          </ol>
          <div class="carousel-inner">
             <div class="carousel-item active">
-               <img src="https://via.placeholder.com/1200x400?text=First+slide" class="d-block w-100" alt="First slide">
+               <img src="images/slide1.png" class="d-block w-100" alt="Renderer">
                <div class="carousel-caption d-none d-md-block">
                   <h5>First slide label</h5>
                   <p>Some text goes here that describes the first slide.</p>
                </div>
             </div>
             <div class="carousel-item">
-               <img src="https://via.placeholder.com/1200x400?text=Second+slide" class="d-block w-100" alt="Second slide">
+               <img src="images/slide2.png" class="d-block w-100" alt="Renderer">
                <div class="carousel-caption d-none d-md-block">
                   <h5>Second slide label</h5>
                   <p>Some text goes here that describes the second slide.</p>
                </div>
             </div>
             <div class="carousel-item">
-               <img src="https://via.placeholder.com/1200x400?text=Third+slide" class="d-block w-100" alt="Third slide">
+               <img src="images/slide3.png" class="d-block w-100" alt="Renderer">
                <div class="carousel-caption d-none d-md-block">
                   <h5>Third slide label</h5>
                   <p>Some text goes here that describes the third slide.</p>
