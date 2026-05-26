@@ -135,3 +135,7 @@ footer p {
 .carousel .carousel-indicators {
   display: none;
 }
+.slide-description {
+    text-align: center;
+    padding: 20px;
+}
