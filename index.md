@@ -79,8 +79,10 @@
             <h2>Projects</h2>
             <ul>
                <li>
-                  <h3>[Project Title]</h3>
-                  <p>[Brief description of the project and your role in it.]</p>
+                  <a href="projects/renderer.html">
+                Software Renderer
+            </a>
+            <p>[Custom software renderer showing understanding of pixel mapping, lighting, and projection]</p>
                </li>
                <li>
                   <h3>[Project Title]</h3>
