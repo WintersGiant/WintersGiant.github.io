@@ -79,7 +79,7 @@
             <h2>Projects</h2>
             <ul>
                <li>
-                  <a href="projects/renderer.html">
+                  <a href="Projects/Renderer.html">
                 Software Renderer
             </a>
             <p>[Custom software renderer showing understanding of pixel mapping, lighting, and projection]</p>
