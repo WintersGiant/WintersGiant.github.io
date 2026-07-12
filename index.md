@@ -90,9 +90,8 @@
             </a>
                   <p>[AI system running the enemy ai for an rts game.]</p>
                </li>
-                </li>
                <li>
-                   <a href="Projects/Placeholder.html">
+                   <a href="Projects/Placeholder">
                 RTS Ai System
             </a>
                   <p>[Placeholder for additional project.]</p>
