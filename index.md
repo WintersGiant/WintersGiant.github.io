@@ -85,8 +85,17 @@
             <p>[Custom software renderer showing understanding of pixel mapping, lighting, and projection]</p>
                </li>
                <li>
-                  <h3>[Project Title]</h3>
-                  <p>[Brief description of the project and your role in it.]</p>
+                   <a href="Projects/RTS.html">
+                RTS Ai System
+            </a>
+                  <p>[AI system running the enemy ai for an rts game.]</p>
+               </li>
+                </li>
+               <li>
+                   <a href="Projects/Placeholder.html">
+                RTS Ai System
+            </a>
+                  <p>[Placeholder for additional project.]</p>
                </li>
             </ul>
          </section>
